@@ -1,0 +1,11 @@
+tg\ipnet\university\pharmacie\generic\ejb\IDAO.class
+tg\ipnet\university\pharmacie\entity\Medicament_.class
+tg\ipnet\university\pharmacie\entity\Categorie_.class
+tg\ipnet\university\pharmacie\entity\Medicament.class
+tg\ipnet\university\pharmacie\ejb\CategorieIDAO.class
+tg\ipnet\university\pharmacie\entity\Categorie.class
+tg\ipnet\university\pharmacie\generic\ejb\DAO.class
+tg\ipnet\university\pharmacie\ejb\CategorieDAO.class
+tg\ipnet\university\pharmacie\ejb\MedicamentDAO.class
+tg\ipnet\university\pharmacie\ejb\MedicamentIDAO.class
+tg\ipnet\university\pharmacie\tests\Main.class
