@@ -5,7 +5,8 @@
     <groupId>tg.ipnet.university</groupId>
     <artifactId>pharmacie-ejb</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>ejb</packaging>
+<!--    <packaging>ejb</packaging>-->
+    <packaging>war</packaging>
 
     <name>pharmacie-ejb</name>
 
